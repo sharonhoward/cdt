@@ -113,3 +113,5 @@ If stated, the location to which the prisoner was delivered.
 ###  del_to_ship
 
 If stated, the name of the ship or hulk to which the prisoner was delivered. 
+
+[![DOI](https://zenodo.org/badge/8207/sharonhoward/cdt.svg)](https://zenodo.org/badge/latestdoi/8207/sharonhoward/cdt)
