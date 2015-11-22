@@ -34,7 +34,7 @@ Citation
 
 Suggested format for academic citation:
 
-Sharon Howard, 'Middlesex Convicts Delivered for Transportation 1785-92', *London Lives, 1690-1800* (2015).
+Sharon Howard, 'Middlesex Convicts Delivered for Transportation 1785-92', *London Lives, 1690-1800* www.londonlives.org (2015).
 
 
 Acknowledgments
