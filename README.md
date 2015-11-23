@@ -40,7 +40,7 @@ Sharon Howard, 'Middlesex Convicts Delivered for Transportation 1785-92', *Londo
 Acknowledgments
 --------------------
 
-The dataset has been created using the transcriptions of the Order Books published at the [London Lives website](www.londonlives.org). Further general background information on the Order Books can also be found at [the London Lives website](http://www.londonlives.org/static/GO.jsp). I am grateful to Tim Hitchcock and Bob Shoemaker, the London Lives project directors, for agreeing to share this data.
+The dataset has been created using the transcriptions of the Order Books published at [London Lives](http://www.londonlives.org). Further [background information on the Order Books](http://www.londonlives.org/static/GO.jsp) can also be found at the London Lives website. I am grateful to Tim Hitchcock and Bob Shoemaker, the London Lives project directors, for agreeing to share this data.
         
 The original documents are held at the London Metropolitan Archives, part of the Middlesex Sessions Records series (MJ/OC/11-12).
 
